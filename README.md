@@ -1,4 +1,4 @@
-# Ćwiczenie 2 — Unrolling ×4 i porównanie -O0/-O2/-O3
+# Unrolling ×4 i porównanie -O0/-O2/-O3
 
 ## Cel
 - Dodać wariant funkcji z **unrolling ×4** (C lub ASM) i porównać działanie.
